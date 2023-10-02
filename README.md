@@ -1,4 +1,4 @@
-Hello, my name is Ankit Patne, and I am an undergraduate student at PICT pursuing a B.E. in Electronics and Telecommunication. With a long-term goal of becoming a skilled software engineer and gaining extensive knowledge in my field, I am a passionate learner who enjoys exploring various technical domains.
+Hello, my name is Ankit Patne, and I am an undergraduate student at PICT pursuing B.E. With a long-term goal of becoming a skilled software engineer and gaining extensive knowledge in my field, I am a passionate learner who enjoys exploring various technical domains.
 
 Currently, I am focused on enhancing my skills in Data Structures and Algorithms through competitive programming. Additionally, I am actively practicing web development to gain hands-on experience in the field. As a team player, I strive to be well-rounded and professional, dedicating myself to continuous learning at a professional level and maintaining a compassionate and friendly attitude. I am proficient in self-management during independent projects and thrive in collaborative, productive team environments.
 
