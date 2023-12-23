@@ -1,8 +1,10 @@
-Hello, my name is Ankit Patne, and I am an undergraduate student at PICT pursuing B.E. With a long-term goal of becoming a skilled software engineer and gaining extensive knowledge in my field, I am a passionate learner who enjoys exploring various technical domains.
+Hello, I am Ankit Patne, an undergraduate student at PICT currently pursuing a B.E. in Electronics and Telecommunication. My overarching goal is to evolve into a proficient software engineer, deeply immersed in the nuances of my field. Renowned for my passion for learning, I find great joy in exploring diverse technical domains.
 
-Currently, I am focused on enhancing my skills in Data Structures and Algorithms through competitive programming. Additionally, I am actively practicing web development to gain hands-on experience in the field. As a team player, I strive to be well-rounded and professional, dedicating myself to continuous learning at a professional level and maintaining a compassionate and friendly attitude. I am proficient in self-management during independent projects and thrive in collaborative, productive team environments.
+At present, my focus lies in honing my expertise in Data Structures and Algorithms through the realm of competitive programming. I am equally adept as a web development enthusiast and proficient in crafting mobile applications using Flutter. My technical toolkit includes proficiency in Python, C/C++, and MySQL, with a keen understanding of Data Science tools such as Pandas, Numpy, and Matplotlib.
 
-In pursuit of refining my coding skills, I regularly participate in platforms such as Codeforces, continuously improving my abilities. I also contribute to open source projects, further enhancing my knowledge and experience in the field.
+In addition to my coding prowess, I am experienced in Java, HTML, CSS, JS, Bootstrap, Django, Django REST Framework, OOP, DSA, Git, and Github. I have a solid foundation in Python scripting and am well-versed in time management, problem-solving, and effective documentation.
+
+Moreover, I possess familiarity with Flutter, FastAPI, AWS, ReactJS, AJAX, Web Scraping, and PostgreSQL. This diverse skill set allows me to navigate various technical challenges with ease.
 
 Allow me to highlight some of my noteworthy projects:
 
@@ -11,19 +13,22 @@ Allow me to highlight some of my noteworthy projects:
    - Effortlessly create, manage, and deliver engaging quizzes.
    - This project is an essential tool for building engaging educational and assessment platforms.
    - GitHub: [QuizAPI](https://github.com/anankitpatne12/Main_Quiz_API)
-
-2. USER MANAGEMENT API (May 2023)
+2. AI‑POWERED YOUTUBE TO BLOG CONVERTER
+   - A web application using OpenAI’s ChatGPT API and AssemblyAI API to seamlessly convert YouTube videos into well‑structured and engaging blog articles.
+   - Secure user authentication and storage using PostgreSQL, allowing users to and access the generated blog articles anytime, fostering a personalized and efficient content creation experience.
+   - GitHub: [WebApp](https://github.com/ankitpatne/AI-Blog-Generator.git)
+3. USER MANAGEMENT API (May 2023)
    - Created a REST API using the Django framework, integrated with a PostgreSQL database, and designed for user management.
    - Enables seamless user management with CRUD operations and authentication.
    - GitHub: [UserManagement](https://github.com/anankitpatne12/API-AUCTOPUS)
 
-3. SHADOWSHARE - EXPRESS YOUR THOUGHTS ANONYMOUSLY (April 2023)
+4. SHADOWSHARE - EXPRESS YOUR THOUGHTS ANONYMOUSLY (April 2023)
    - Implemented a dynamic Django-based project where users can securely post images and captivating captions while preserving their anonymity.
    - Implemented a robust user authentication system to ensure data safety and privacy.
    - Integrated features that allow users to effortlessly delete and update their own posts.
    - GitHub: [ShadowShare](https://github.com/anankitpatne12/Shadow_Share)
 
-4. SELENIUM-BASED WEB SCRAPING FOR DATA EXTRACTION AND AUTOMATION (Feb 2023)
+5. SELENIUM-BASED WEB SCRAPING FOR DATA EXTRACTION AND AUTOMATION (Feb 2023)
    - Developed a web scraping project using Selenium, extracting author names, book lengths, and titles from Amazon Audible's best sellers.
    - Stored the extracted data in a CSV file for further analysis.
    - GitHub: [SeleniumProject](https://github.com/anankitpatne12/DataScraping)
