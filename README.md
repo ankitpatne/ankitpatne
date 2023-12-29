@@ -8,7 +8,7 @@ Moreover, I possess familiarity with Flutter, FastAPI, AWS, ReactJS, AJAX, Web S
 
 Allow me to highlight some of my noteworthy projects:
 
-1. QUIZZLY: INTERACTIVE QUIZ API (May 2023)
+1. QUIZZLY: INTERACTIVE QUIZ API 
    - Developed a quiz management API for seamless integration of interactive quizzes into applications.
    - Effortlessly create, manage, and deliver engaging quizzes.
    - This project is an essential tool for building engaging educational and assessment platforms.
@@ -17,18 +17,23 @@ Allow me to highlight some of my noteworthy projects:
    - A web application using OpenAI’s ChatGPT API and AssemblyAI API to seamlessly convert YouTube videos into well‑structured and engaging blog articles.
    - Secure user authentication and storage using PostgreSQL, allowing users to and access the generated blog articles anytime, fostering a personalized and efficient content creation experience.
    - GitHub: [WebApp](https://github.com/ankitpatne/AI-Blog-Generator.git)
-3. USER MANAGEMENT API (May 2023)
+3. FLUTTER QUIZ APP PROJECT
+   - *Dynamic Quiz Generation:* Developed a Flutter-based quiz app with dynamic question selection for an engaging user experience.
+   - *Interactive Summary and Restart Feature:* Implemented a user-friendly summary display and restart option for seamless quiz navigation.
+   - Github: [QuizApp](https://github.com/ankitpatne/Flutter-Quiz-App.git)
+    
+4. USER MANAGEMENT API 
    - Created a REST API using the Django framework, integrated with a PostgreSQL database, and designed for user management.
    - Enables seamless user management with CRUD operations and authentication.
    - GitHub: [UserManagement](https://github.com/anankitpatne12/API-AUCTOPUS)
 
-4. SHADOWSHARE - EXPRESS YOUR THOUGHTS ANONYMOUSLY (April 2023)
+5. SHADOWSHARE - EXPRESS YOUR THOUGHTS ANONYMOUSLY 
    - Implemented a dynamic Django-based project where users can securely post images and captivating captions while preserving their anonymity.
    - Implemented a robust user authentication system to ensure data safety and privacy.
    - Integrated features that allow users to effortlessly delete and update their own posts.
    - GitHub: [ShadowShare](https://github.com/anankitpatne12/Shadow_Share)
 
-5. SELENIUM-BASED WEB SCRAPING FOR DATA EXTRACTION AND AUTOMATION (Feb 2023)
+6. SELENIUM-BASED WEB SCRAPING FOR DATA EXTRACTION AND AUTOMATION 
    - Developed a web scraping project using Selenium, extracting author names, book lengths, and titles from Amazon Audible's best sellers.
    - Stored the extracted data in a CSV file for further analysis.
    - GitHub: [SeleniumProject](https://github.com/anankitpatne12/DataScraping)
