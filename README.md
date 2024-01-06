@@ -8,30 +8,38 @@ Moreover, I possess familiarity with Flutter, FastAPI, AWS, ReactJS, AJAX, Web S
 
 Allow me to highlight some of my noteworthy projects:
 
-1. QUIZZLY: INTERACTIVE QUIZ API 
+1. COOKies - Recipe Sharing Web App
+   - Dynamic web application for recipe sharing and discovery.
+   - User authentication for ensuring data safety and privacy with personalized recipe management.
+   - Responsive design for an optimal user experience.
+   - GitHub: [COOKies](https://github.com/ankitpatne/Full-Stack-Recipe-App.git)
+
+3. AI‑POWERED YOUTUBE TO BLOG CONVERTER
+   - A web application using OpenAI’s ChatGPT API and AssemblyAI API to seamlessly convert YouTube videos into well‑structured and engaging blog articles.
+   - Secure user authentication and storage using PostgreSQL, allowing users to and access the generated blog articles anytime, fostering a personalized and efficient content creation experience.
+   - GitHub: [WebApp](https://github.com/ankitpatne/AI-Blog-Generator.git)
+
+4. FLUTTER QUIZ APP 
+   - *Dynamic Quiz Generation:* Developed a Flutter-based quiz app with dynamic question selection for an engaging user experience.
+   - *Interactive Summary and Restart Feature:* Implemented a user-friendly summary display and restart option for seamless quiz navigation.
+   - Github: [QuizApp](https://github.com/ankitpatne/Flutter-Quiz-App.git)
+
+3. QUIZZLY: INTERACTIVE QUIZ API 
    - Developed a quiz management API for seamless integration of interactive quizzes into applications.
    - Effortlessly create, manage, and deliver engaging quizzes.
    - This project is an essential tool for building engaging educational and assessment platforms.
    - GitHub: [QuizAPI](https://github.com/anankitpatne12/Main_Quiz_API)
-2. AI‑POWERED YOUTUBE TO BLOG CONVERTER
-   - A web application using OpenAI’s ChatGPT API and AssemblyAI API to seamlessly convert YouTube videos into well‑structured and engaging blog articles.
-   - Secure user authentication and storage using PostgreSQL, allowing users to and access the generated blog articles anytime, fostering a personalized and efficient content creation experience.
-   - GitHub: [WebApp](https://github.com/ankitpatne/AI-Blog-Generator.git)
-3. FLUTTER QUIZ APP PROJECT
-   - *Dynamic Quiz Generation:* Developed a Flutter-based quiz app with dynamic question selection for an engaging user experience.
-   - *Interactive Summary and Restart Feature:* Implemented a user-friendly summary display and restart option for seamless quiz navigation.
-   - Github: [QuizApp](https://github.com/ankitpatne/Flutter-Quiz-App.git)
-    
-4. USER MANAGEMENT API 
-   - Created a REST API using the Django framework, integrated with a PostgreSQL database, and designed for user management.
-   - Enables seamless user management with CRUD operations and authentication.
-   - GitHub: [UserManagement](https://github.com/anankitpatne12/API-AUCTOPUS)
 
 5. SHADOWSHARE - EXPRESS YOUR THOUGHTS ANONYMOUSLY 
    - Implemented a dynamic Django-based project where users can securely post images and captivating captions while preserving their anonymity.
    - Implemented a robust user authentication system to ensure data safety and privacy.
    - Integrated features that allow users to effortlessly delete and update their own posts.
    - GitHub: [ShadowShare](https://github.com/anankitpatne12/Shadow_Share)
+     
+4. USER MANAGEMENT API 
+   - Created a REST API using the Django framework, integrated with a PostgreSQL database, and designed for user management.
+   - Enables seamless user management with CRUD operations and authentication.
+   - GitHub: [UserManagement](https://github.com/anankitpatne12/API-AUCTOPUS)
 
 6. SELENIUM-BASED WEB SCRAPING FOR DATA EXTRACTION AND AUTOMATION 
    - Developed a web scraping project using Selenium, extracting author names, book lengths, and titles from Amazon Audible's best sellers.
