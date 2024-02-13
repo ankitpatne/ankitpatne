@@ -8,6 +8,12 @@ Moreover, I possess familiarity with Flutter, FastAPI, AWS, ReactJS, AJAX, Web S
 
 Allow me to highlight some of my noteworthy projects:
 
+1. Renegan ‑ System for Geo‑Tagging of Cameras
+   - An application to mark the location of private cameras on map for improved public safety and faster police response.
+   - System triggers real‑time alerts, notifying the authorities about suspicious objects such as weapons, while also providing the camera owner’s information through the map.
+
+   - GitHub: [Renegan](https://github.com/TeamRenegan/RJPOLICE_HACK_1671_Renegan_6.git)
+
 1. COOKies - Recipe Sharing Web App
    - Dynamic web application for recipe sharing and discovery.
    - User authentication for ensuring data safety and privacy with personalized recipe management.
