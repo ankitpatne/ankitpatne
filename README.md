@@ -16,14 +16,7 @@ Hello, I am Ankit Patne, an undergraduate student at PICT currently pursuing B.E
 </div>
 
 
-
-###
-
-<img src="https://raw.githubusercontent.com/ankitpatne/ankitpatne/output/snake.svg" alt="Snake animation" />
-
-###
-
-### 🤓 Dev Memes
+## 🤓 Dev Memes
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
