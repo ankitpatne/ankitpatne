@@ -16,11 +16,11 @@ Hey there, I am Ankit Patne, an undergraduate student at PICT currently pursuing
 </div>
 
 
-## 🤓 Dev Memes
+<!-- ## 🤓 Dev Memes
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=ankitpatne&icon=5&color=0)](https://visitcount.itsvg.in)
 
